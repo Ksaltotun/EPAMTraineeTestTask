@@ -11,3 +11,16 @@ D:\Projects\epamTask\testTask\obj\Debug\netcoreapp3.1\testTask.csproj.CoreCompil
 D:\Projects\epamTask\testTask\obj\Debug\netcoreapp3.1\testTask.dll
 D:\Projects\epamTask\testTask\obj\Debug\netcoreapp3.1\testTask.pdb
 D:\Projects\epamTask\testTask\obj\Debug\netcoreapp3.1\testTask.genruntimeconfig.cache
+D:\Projects\epamTask\EPAMTraineeTestTask\bin\Debug\netcoreapp3.1\testTask.exe
+D:\Projects\epamTask\EPAMTraineeTestTask\bin\Debug\netcoreapp3.1\testTask.deps.json
+D:\Projects\epamTask\EPAMTraineeTestTask\bin\Debug\netcoreapp3.1\testTask.runtimeconfig.json
+D:\Projects\epamTask\EPAMTraineeTestTask\bin\Debug\netcoreapp3.1\testTask.runtimeconfig.dev.json
+D:\Projects\epamTask\EPAMTraineeTestTask\bin\Debug\netcoreapp3.1\testTask.dll
+D:\Projects\epamTask\EPAMTraineeTestTask\bin\Debug\netcoreapp3.1\testTask.pdb
+D:\Projects\epamTask\EPAMTraineeTestTask\obj\Debug\netcoreapp3.1\testTask.csprojAssemblyReference.cache
+D:\Projects\epamTask\EPAMTraineeTestTask\obj\Debug\netcoreapp3.1\testTask.AssemblyInfoInputs.cache
+D:\Projects\epamTask\EPAMTraineeTestTask\obj\Debug\netcoreapp3.1\testTask.AssemblyInfo.cs
+D:\Projects\epamTask\EPAMTraineeTestTask\obj\Debug\netcoreapp3.1\testTask.csproj.CoreCompileInputs.cache
+D:\Projects\epamTask\EPAMTraineeTestTask\obj\Debug\netcoreapp3.1\testTask.dll
+D:\Projects\epamTask\EPAMTraineeTestTask\obj\Debug\netcoreapp3.1\testTask.pdb
+D:\Projects\epamTask\EPAMTraineeTestTask\obj\Debug\netcoreapp3.1\testTask.genruntimeconfig.cache

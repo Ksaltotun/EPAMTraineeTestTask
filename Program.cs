@@ -91,7 +91,9 @@ namespace testTask
                     if (clientEnergyConsuming > energyLimit)
                     {
                         clientPayment = energyLimit * baseTax + (clientEnergyConsuming - energyLimit) * overLimitTax;
-                    } else {
+                    }
+                    else
+                    {
                         clientPayment = clientEnergyConsuming * baseTax;
                     }
                     break;
@@ -179,7 +181,7 @@ namespace testTask
             string[] surnames = new string[] { "Петренко", "Сидоренко", "Николаенко", "Мариенко", "Еленко", "Натальенко" };
             Console.WriteLine("Поехали!");
             Company GSPK666 = new Company();
-            
+
             Random random = new Random();
             for (int i = 0; i < usualClientCount; i++)
             {
@@ -192,7 +194,7 @@ namespace testTask
             }
             for (int i = 0; i < limitClientCount; i++)
             {
-                                Client client = new Client();
+                Client client = new Client();
                 client.clientEnergyConsuming = random.Next(0, 200);
                 client.clientName = names[random.Next(0, 5)] + " " + surnames[random.Next(0, 5)];
                 client.clientRateType = "с лимитом";
@@ -201,7 +203,7 @@ namespace testTask
             }
             for (int i = 0; i < privilegeOneClientCount; i++)
             {
-                                Client client = new Client();
+                Client client = new Client();
                 client.clientEnergyConsuming = random.Next(0, 200);
                 client.clientName = names[random.Next(0, 5)] + " " + surnames[random.Next(0, 5)];
                 client.clientRateType = "льготный №1";
@@ -210,7 +212,7 @@ namespace testTask
             }
             for (int i = 0; i < privilegeTwoClientCount; i++)
             {
-              Client client = new Client();
+                Client client = new Client();
                 client.clientEnergyConsuming = random.Next(0, 200);
                 client.clientName = names[random.Next(0, 5)] + " " + surnames[random.Next(0, 5)];
                 client.clientRateType = "льготный №2";
